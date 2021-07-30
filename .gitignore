@@ -1,0 +1,7 @@
+*.zwc
+.zcompcache
+.zcompdump
+.zcompdump.*
+.z
+zinit/
+.zsh_history
